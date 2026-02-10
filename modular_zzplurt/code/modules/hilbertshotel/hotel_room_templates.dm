@@ -76,6 +76,12 @@
 	category = GHC_APARTMENT
 	landing_coords = list(17, 3)
 
+/datum/map_template/ghost_cafe_rooms/apartment_strums_house
+	name = "Strum's Home"
+	mappath = "_maps/splurt/templates/apartment_sol_house.dmm"
+	category = GHC_SPECIAL
+	landing_coords = list(17, 3)
+
 /datum/map_template/ghost_cafe_rooms/apartment_occult_lair
 	name = "Occult Hideout"
 	mappath = "_maps/splurt/templates/apartment_occult_lair.dmm"
